@@ -13,6 +13,13 @@
 Занятие ведёт Нина Коновалова.
 
 ### Семинар
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_11_GANs/Practice/part_1_gan.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_11_GANs/Practice/part_2_stylegan_inversion.ipynb)
+
+
+
+
 Данный семианр состоит из двух основных частей. 
 
 1. В первой части вам продемонстируют работу генеративно-состязательной сети на практике.
@@ -25,6 +32,11 @@
 
 
 ### Домашнее задание
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_11_GANs/Homework/homework_8_gans_part_1.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_11_GANs/Homework/homework_8_gans_part_2.ipynb)
+
 
 Данное домашнее задание состоит из двух основных частей:
 

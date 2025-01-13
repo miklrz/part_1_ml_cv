@@ -14,6 +14,9 @@
 Занятие ведёт Радослав Нейчев.
 
 ### Семинар
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_06_regularization_optimization/Practice/pytorch_bn_dropout.ipynb)
+
+
 В данном семианре вы узнаете о Dropout и Batch Normalization, а также изучите, какие бывают оптимизаторы в PyTorch.
 
 Занятие ведёт Григорий Лелейтнер.

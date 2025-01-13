@@ -15,6 +15,10 @@
 
 ### Семинар
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_04_intro_to_neural_nets/Practice/part_1_PyTorch_intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_04_intro_to_neural_nets/Practice/part_2_torch_autograd.ipynb)
+
+
 В этом семинаре мы поговорим о синтаксисе и основных возможностях библиотеки PyTorch, а также построим свою первую нейросеть на PyTorch. Также можно будет узнать, как работает Autograd в PyTorch
 
 Занятие ведёт Татьяна Гайнцева

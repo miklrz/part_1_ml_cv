@@ -27,12 +27,17 @@
 
 
 ### Семинар
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_02_linear_models/Practice/part_1_linear_regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_02_linear_models/Practice/part_2_regularization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_02_linear_models/Practice/part_3_logistic_regression.ipynb)
 
 В этом семинаре мы рассмотрим два решения задачи линейной регрессии: с помощью явной формулы и с помощью градиентной оптимизации. Мы реализуем решения в виде классов, как это принято в библиотеке sklearn.
 
 Занятие ведёт Юрий Яровиков.
 
 ### Домашнее задание
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_02_linear_models/Homework/hw_2_linear_models.ipynb)
 
 В этом домашнем задании вам необходимо прорешать ноутбук о линейных моделях и градиентном спуске. 
 

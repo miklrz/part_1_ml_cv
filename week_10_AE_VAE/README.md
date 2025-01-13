@@ -14,6 +14,12 @@
 Занятие ведёт Нина Коновалова.
 
 ### Семинар
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_10_AE_VAE/Practice/vae.ipynb)
+
 В данном семианре вы на практике научитесь стоить и обучать автоэнкодер и вариационный автоэнкодер.
 
 Занятие ведёт Артём Ямалутдинов
+
+
+### Домашнее задание
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_10_AE_VAE/Homework/hw_7_autoencoders.ipynb)
