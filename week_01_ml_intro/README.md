@@ -20,7 +20,7 @@
 ### Семинар
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_01_ml_intro/Practice/part_1_data_analysis.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([Practice/part_2_intro_to_sklearn.ipynb](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_01_ml_intro/Practice/part_2_into_to_sklearn.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([Practice/part_2_intro_to_sklearn.ipynb](https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_01_ml_intro/Practice/part_2_into_to_sklearn.ipynb)
 
 
 В этом семинаре вы познакомитесь с библиотекой sklearn и узнаете об основных этапах решения задачи анализа данных. Также мы будем подбирать гиперпараметры модели с помощью метрик и кросс-валидации.
