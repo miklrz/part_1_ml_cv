@@ -11,6 +11,8 @@ Materials of the first part of Deep Learning School course (ML + CV)
 
 - [**Our telegram channel**](t.me/deep_learning_school_news)
 
+## Main content
+
 1. [Введение в ML, анализ данных и библиотеку Sklearn](./week_01_ml_intro/README.md)
 
 2. [Линейные модели](./week_02_linear_models/README.md)
